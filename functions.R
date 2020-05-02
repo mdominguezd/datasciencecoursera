@@ -26,3 +26,4 @@ meanCol = function(mat, removeNA= TRUE){
 
 X = matrix(1:20,4,5)
 meanCol(airquality)
+

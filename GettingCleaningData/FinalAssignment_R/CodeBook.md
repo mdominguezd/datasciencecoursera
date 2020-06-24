@@ -7,41 +7,41 @@ The Dataset is taken from th UC Irvine Machine Learning Repository, further info
 ### Features 
 
 The 561 features presente in the training and testing data set are listed below:
-. tBodyAcc-mean()-X                    
-.tBodyAcc-mean()-Y                   
-. tBodyAcc-mean()-Z                    
-. tBodyAcc-std()-X                    
-  [5] tBodyAcc-std()-Y                     
-  .tBodyAcc-std()-Z                    
-  [7] tBodyAcc-mad()-X                     
-  .tBodyAcc-mad()-Y                    
-  [9] tBodyAcc-mad()-Z                     
-  .tBodyAcc-max()-X                    
- [11] tBodyAcc-max()-Y                     
- .tBodyAcc-max()-Z                    
- [13] tBodyAcc-min()-X                     
- .tBodyAcc-min()-Y                    
- [15] tBodyAcc-min()-Z                     
- .tBodyAcc-sma()                      
- [17] tBodyAcc-energy()-X                  
- .tBodyAcc-energy()-Y                 
- [19] tBodyAcc-energy()-Z                 
- .tBodyAcc-iqr()-X                    
- [21] tBodyAcc-iqr()-Y                    
- .tBodyAcc-iqr()-Z                    
- [23] tBodyAcc-entropy()-X               
- .tBodyAcc-entropy()-Y                
- [25] tBodyAcc-entropy()-Z                
- .tBodyAcc-arCoeff()-X,1              
- [27] tBodyAcc-arCoeff()-X,2             
- .tBodyAcc-arCoeff()-X,3              
- [29] tBodyAcc-arCoeff()-X,4               tBodyAcc-arCoeff()-Y,1              
- [31] tBodyAcc-arCoeff()-Y,2               tBodyAcc-arCoeff()-Y,3              
- [33] tBodyAcc-arCoeff()-Y,4               tBodyAcc-arCoeff()-Z,1              
- [35] tBodyAcc-arCoeff()-Z,2               tBodyAcc-arCoeff()-Z,3              
- [37] tBodyAcc-arCoeff()-Z,4               tBodyAcc-correlation()-X,Y          
- [39] tBodyAcc-correlation()-X,Z           tBodyAcc-correlation()-Y,Z          
- [41] tGravityAcc-mean()-X                 tGravityAcc-mean()-Y                
++ tBodyAcc-mean()-X                    
++tBodyAcc-mean()-Y                   
++ tBodyAcc-mean()-Z                    
++ tBodyAcc-std()-X                    
++ [5] tBodyAcc-std()-Y                     
++ .tBodyAcc-std()-Z                    
++ [7] tBodyAcc-mad()-X                     
++ .tBodyAcc-mad()-Y                    
+  +[9] tBodyAcc-mad()-Z                     
+  +tBodyAcc-max()-X                    
+ +[11] tBodyAcc-max()-Y                     
+ +tBodyAcc-max()-Z                    
+ +[13] tBodyAcc-min()-X                     
+ +tBodyAcc-min()-Y                    
+ +[15] tBodyAcc-min()-Z                     
+ +tBodyAcc-sma()                      
+ +[17] tBodyAcc-energy()-X                  
+ +tBodyAcc-energy()-Y                 
+ +[19] tBodyAcc-energy()-Z                 
+ +tBodyAcc-iqr()-X                    
+ +[21] tBodyAcc-iqr()-Y                    
+ +tBodyAcc-iqr()-Z                    
+ +[23] tBodyAcc-entropy()-X               
+ +.tBodyAcc-entropy()-Y                
+ +[25] tBodyAcc-entropy()-Z                
+ +tBodyAcc-arCoeff()-X,1              
+ +[27] tBodyAcc-arCoeff()-X,2             
+ +.tBodyAcc-arCoeff()-X,3              
+ [29] tBodyAcc-arCoeff()-X,4        +       tBodyAcc-arCoeff()-Y,1              
+ [31] tBodyAcc-arCoeff()-Y,2         +      tBodyAcc-arCoeff()-Y,3              
+ [33] tBodyAcc-arCoeff()-Y,4          +     tBodyAcc-arCoeff()-Z,1              
+ [35] tBodyAcc-arCoeff()-Z,2           +    tBodyAcc-arCoeff()-Z,3              
+ [37] tBodyAcc-arCoeff()-Z,4            +   tBodyAcc-correlation()-X,Y          
+ [39] tBodyAcc-correlation()-X,Z         +  tBodyAcc-correlation()-Y,Z          
+ [41] tGravityAcc-mean()-X                + tGravityAcc-mean()-Y                
  [43] tGravityAcc-mean()-Z                 tGravityAcc-std()-X                 
  [45] tGravityAcc-std()-Y                  tGravityAcc-std()-Z                 
  [47] tGravityAcc-mad()-X                  tGravityAcc-mad()-Y                 

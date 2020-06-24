@@ -1,7 +1,7 @@
 # CodeBook
 
 ### Origin of DataSet
-The Dataset is taken from th UC Irvine Machine Learning Repository, further information can be found in this [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The Data Downloaded includes a Training Dataset and a Test Dataset that both include 561 features used to determine the activity that 30 subjects performed using the senosr signals provided by a smartphone Samsung Galaxy SII on the waist.
+The Dataset is taken from the UC Irvine Machine Learning Repository, further information can be found in this [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The Data Downloaded includes a Training Dataset and a Test Dataset that both include 561 features used to determine the activity that 30 subjects performed using the senosr signals provided by a smartphone Samsung Galaxy SII on the waist.
 
 
 ### Features 

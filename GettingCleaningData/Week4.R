@@ -63,7 +63,7 @@ str_trim("  MArt   ") # Cut spaces before and after the name
 
 # . sirve como cualquier caracter 9.11 puede buscar "9 11" o "9-11"
 
-# | one word ore the other comida|bebida busca ambas
+# | one word or the other comida|bebida busca ambas
 
 # ^([Gg]ood|[Bb]ad) Good or good or Bad or bad in beggining of line
 
@@ -86,7 +86,7 @@ class(d1)
 
 class(d2)
 
-format(d2, "dia de semana: %A, Numero: %d, del mes numero: %m (%B) del año %Y")
+format(d2, "dia de semana: %A, Numero: %d, del mes numero: %m (%B) del a?o %Y")
 
 dat <- c("1/ene./1960", "31/mar./1960", "30/jun./1960")
 
